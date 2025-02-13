@@ -22,14 +22,10 @@ Caracteristicas de mejora:
 - crear una BBDD con los datos de los clientes de la tienda, con su nombre y su mail.
 - historial de compras por cada cliente. 
 
-Acciones de mejora:
+Acciones de mejora que he implementado: 
 
 - tener la opcion de agregar a clientes nuevos.
 - poder ver la BBDD completa de los clientes de forma clara.
-- dar opcion al cliente de realizar compras calculando el coste de la misma.
-- procesar el pago: el sistema calcula el cambio a devolver.
-- registrar la compra realizada y actualizar tanto el stock como la BBDD del cliente.
-- ver historial de compra por clientes.
-- calcular las ventas totales de la tienda.
+
 
 Con todas estas acciones conseguimos una tienda fuincional y operativa.
